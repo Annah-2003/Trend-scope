@@ -1,0 +1,15 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+header {
+  background: #282c34;
+  color: white;
+  padding: 20px;
+}
+
+.chart-container {
+  width: 80%;
+  margin: auto;
+}
